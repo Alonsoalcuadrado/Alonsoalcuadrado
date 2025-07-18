@@ -47,6 +47,23 @@ These are the technologies I know and use.
 
 ---
 
+## 🧠 Codewars Progress
+
+![Codewars](https://www.codewars.com/users/alonsoalcuadrado/badges/large)  
+🔗 [View my Codewars profile](https://www.codewars.com/users/alonsoalcuadrado)
+
+---
+
+## 📜 Certifications
+
+| Title                         | Issuer       | Year | Credential                                           |
+|------------------------------|--------------|------|------------------------------------------------------|
+| ✅ Certified React Developer  | W3Schools    | 2025 | [Verify](https://verify.w3schools.com/65XXOCMA3)    |
+| 🌩️ AWS Cloud Practitioner    | AWS          | 2025 | *Coming soon*                                        |
+| 🇺🇸 English Certificate (C2)  | EF SET       | 2024 | [View](https://cert.efset.org/ek5UTY)               |
+
+---
+
 ### 📬 Let’s Connect
 
 - 🌍 Website: [https://alonsoalcuadrado.com](https://alonsoalcuadrado.com)
